@@ -1,4 +1,4 @@
-A jupyter notebook that visualizes how funcions with complex 
+A jupyter notebook that visualizes how functions with complex 
 variables change. One figure plots both the unchanged plane and 
 the changed plane with a square being drawn on each. An interactive 
 is included to manipulate the square's position. The next plots 
